@@ -1,0 +1,6 @@
+{
+  "name": "SmartGuard AI – Smart Safety Jacket Monitoring Dashboard",
+  "description": "Real-time industrial IoT monitoring dashboard for AI-powered smart safety jackets tracking worker vitals, environmental hazards, motion, and GPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
